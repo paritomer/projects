@@ -1,0 +1,28 @@
+/* Type Selector */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* ID Selector */
+#company-name {
+    font-size: 36px;
+}
+
+/* Header Styling */
+header {
+    color: white;
+    background-color: darkblue;
+}
+
+/* Navigation Styling */
+nav {
+    color: white;
+    background-color: steelblue;
+}
+
+/* Footer Styling */
+footer {
+    color: white;
+    background-color: darkblue;
+}
